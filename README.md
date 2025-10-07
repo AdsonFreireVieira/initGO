@@ -1,0 +1,2 @@
+# initGO
+Iniciando GO
